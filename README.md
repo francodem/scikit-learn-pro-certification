@@ -24,6 +24,3 @@ Capacity to analyze complex problems systematically, compare potential solution 
 
 ## Business Expertise
 Understanding of how machine learning solutions support organizational goals, with the ability to communicate technical findings as clear and actionable business insights.
-
----
-```
